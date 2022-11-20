@@ -17,7 +17,7 @@ commit 1ed9b3fe8f7c44539f5105ac22a0496dd3f18ae7
 
 ---
 
-## 26. Installing the Angular framework && 27. Architecture of an Angular application
+## 26. Installing the Angular framework && 27. Architecture of an Angular application && 28. Create an Angular service
 
 
 
