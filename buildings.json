@@ -1,0 +1,109 @@
+{
+    "houses": [
+        {
+            "coords": {
+                "lat": 52.5013632,
+                "lon": 13.4174913
+            },
+            "params": {
+                "rooms": 5,
+                "value": 1000000
+            },
+            "name": "House 1"
+        },
+        {
+            "coords": {
+                "lat": 52.4888151,
+                "lon": 13.3147011
+            },
+            "params": {
+                "value": 1000000
+            },
+            "name": "House 2"
+        },
+        {
+            "coords": {
+                "lat": 52.5141632,
+                "lon": 13.3780111
+            },
+            "params": {
+                "rooms": 3,
+                "value": 1500000
+            },
+            "name": "House 3"
+        },
+        {
+            "coords": {
+                "lat": 52.53931,
+                "lon": 13.4206011
+            },
+            "params": {
+                "rooms": 12,
+                "value": 5000000
+            },
+            "name": "House 4"
+        },
+        {
+            "coords": {
+                "lat": 52.5418739,
+                "lon": 13.4057378
+            },
+            "params": {
+                "rooms": 10,
+                "value": 4000000
+            },
+            "name": "House 5 - our house"
+        },
+        {
+            "coords": {
+                "lat": 52.5336332,
+                "lon": 13.4015613
+            },
+            "name": "House 6"
+        },
+        {
+            "coords": {
+                "lat": 52.5269281,
+                "lon": 13.3984283
+            },
+            "params": {
+                "rooms": 20,
+                "value": 7000000
+            },
+            "name": "House 7"
+        },
+        {
+            "coords": {
+                "lat": 52.4858232,
+                "lon": 13.4215013
+            },
+            "params": {
+                "rooms": 18,
+                "value": 2000000
+            },
+            "name": "House 8"
+        },
+        {
+            "coords": {
+                "lat": 52.4863064,
+                "lon": 13.3385237
+            },
+            "params": {
+                "rooms": 12,
+                "value": 2300000
+            },
+            "name": "House 9"
+        },
+        {
+            "coords": {
+                "lat": 52.4896432,
+                "lon": 13.3329913
+            },
+            "params": {
+                "rooms": 8,
+                "value": 800000
+            },
+            "name": "House 10"
+        }
+    ]
+}
